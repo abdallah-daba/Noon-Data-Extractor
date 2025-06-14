@@ -1,4 +1,5 @@
-# Noon Data Extractor
+# noon_3k_products.py
+
 
 A Python-based data extraction script built with Selenium to scrape product listings from [Noon.com](https://www.noon.com/).
 The tool automates the process of collecting product data for a given keyword, handling pagination, sorting results by highest rating, and exporting the output to a structured CSV file.
