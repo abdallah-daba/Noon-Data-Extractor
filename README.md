@@ -1,4 +1,4 @@
-# Noon 3K Products Extractor
+# Noon 3K Products Extractor by Selenium
 
 
 A Python-based data extraction script built with Selenium to scrape product listings from [Noon.com](https://www.noon.com/).
